@@ -5,10 +5,10 @@ export const comments = [
     },
     {
     id:2,
-    text:'This is the first comments'
+    text:'This is the Second comments'
     },
     {
     id:3,
-    text:'This is the first comments'
+    text:'This is the Third comments'
     },
 ]
